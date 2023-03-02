@@ -1,4 +1,4 @@
-Prototype RunnerTouch
+Prototype RunnerTouch using Unity with C#
 
 NPCs use (Arrive (tweaked), Flee and Wander behaviors)
 10 NPCs are randomly spawned. 
